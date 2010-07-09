@@ -1,0 +1,63 @@
+FONT {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+BODY {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+P {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+DIV {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+INPUT {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+TEXTAREA {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+FORM {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+SELECT {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana,Helvetica
+}
+A:link {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none
+}
+.content {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica
+}
+.storytitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none
+}
+.storycat {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline
+}
+.boxtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none
+}
+.boxcontent {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica
+}
+.option {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ffffff; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none
+}
+.tiny {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #215dc6; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none
+}
